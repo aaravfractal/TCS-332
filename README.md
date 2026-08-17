@@ -66,4 +66,4 @@ All sensitive values (bot token, API key, wallet private key) are stored in a gi
 
 ## Team
 - Aarav Sharma — Section F, Roll No 02
-- Karnika Jain - section E
+- Karnika Jain - section E, Roll No 33
